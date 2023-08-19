@@ -1,1 +1,0 @@
-const more = 'more'
